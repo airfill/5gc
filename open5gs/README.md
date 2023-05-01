@@ -1,2 +1,2 @@
-### open5gs related
+## open5gs related scripts and resources
 
